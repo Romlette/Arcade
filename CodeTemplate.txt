@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Minecraft
+//Victoria Porter
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if you hear bones jingle {
+    You will run away from the creature
 } else {
-    //Add event below
+    You'll continue to sneak
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if you find diamonds {
+    Mine them
 } else {
-    //Add event below
+    Continue to explore cave
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if you dig loose sand {
+     all of it fall
 } else {
-    //Add event below
+    The ground will continue to stay solid
 }
 
 
